@@ -1,7 +1,3 @@
-Para o seu projeto Backup-Automatizado-para-Nuvem, aqui estão as descrições solicitadas:
-1. Descrição para o seu Site Pessoal (Texto Simples)
-"Este projeto consiste em uma ferramenta de automação desenvolvida em Python para simplificar o processo de cópia de segurança de arquivos locais para a nuvem. Utilizando a API do Google Drive, o script permite programar ou executar manualmente o upload de diretórios e arquivos importantes, garantindo que seus dados estejam sempre protegidos e sincronizados de forma segura em um ambiente remoto, eliminando falhas humanas e o esquecimento de backups manuais."[1]
-2. Descrição para o README (Utilizando suas Tags)
 # Backup Automatizado para Nuvem
 *Proteja seus arquivos importantes de forma simples e eficiente automatizando o envio de dados para o Google Drive com Python.*
 ## Sobre o Projeto
